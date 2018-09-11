@@ -1,1 +1,1 @@
-O aprendizado de ponteiros Ã© importante pois, com ele, torna-se possÃ­vel realizar tarefas computacionais que possuem elevado nÃ­vel de dificuldade quando nÃ£o os sÃ£o utilizados, pois como eles alocam memÃ³ria, permietem a passagem por referÃªncia.
+O aprendizado de ponteiros é importante pois, com ele, torna-se possível realizar tarefas computacionais que possuem elevado nível de dificuldade quando não os são utilizados, pois como eles alocam memória, permietem a passagem por referência.
